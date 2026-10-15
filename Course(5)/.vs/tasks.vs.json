@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Problem1",
+      "appliesTo": "Problem1.cpp",
+      "type": "launch"
+    }
+  ]
+}

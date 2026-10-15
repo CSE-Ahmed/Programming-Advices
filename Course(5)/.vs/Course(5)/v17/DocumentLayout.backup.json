@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem1.cpp",
+              "DocumentMoniker": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Problem1.cpp",
+              "RelativeDocumentMoniker": "Problem1.cpp",
+              "ToolTip": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Problem1.cpp",
+              "RelativeToolTip": "Problem1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T15:41:26.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

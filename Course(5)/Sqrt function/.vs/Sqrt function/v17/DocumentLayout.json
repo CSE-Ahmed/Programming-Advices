@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Sqrt function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B633D0DF-AD75-4888-B514-1D450245787F}|Sqrt function\\Sqrt function.vcxproj|G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Sqrt function\\Sqrt function\\Sqrt function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B633D0DF-AD75-4888-B514-1D450245787F}|Sqrt function\\Sqrt function.vcxproj|solutionrelative:Sqrt function\\Sqrt function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sqrt function.cpp",
+              "DocumentMoniker": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Sqrt function\\Sqrt function\\Sqrt function.cpp",
+              "RelativeDocumentMoniker": "Sqrt function\\Sqrt function.cpp",
+              "ToolTip": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Sqrt function\\Sqrt function\\Sqrt function.cpp",
+              "RelativeToolTip": "Sqrt function\\Sqrt function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T18:48:50.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

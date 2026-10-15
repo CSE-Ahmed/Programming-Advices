@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Rock-Paper-Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9459F0DC-C5BE-4BC7-BA83-00940B5D2A9E}|Rock-Paper-Scissors\\Rock-Paper-Scissors.vcxproj|G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Rock-Paper-Scissors\\Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9459F0DC-C5BE-4BC7-BA83-00940B5D2A9E}|Rock-Paper-Scissors\\Rock-Paper-Scissors.vcxproj|solutionrelative:Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock-Paper-Scissors.cpp",
+              "DocumentMoniker": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Rock-Paper-Scissors\\Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp",
+              "RelativeDocumentMoniker": "Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp",
+              "ToolTip": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Rock-Paper-Scissors\\Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp*",
+              "RelativeToolTip": "Rock-Paper-Scissors\\Rock-Paper-Scissors.cpp*",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T20:32:17.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

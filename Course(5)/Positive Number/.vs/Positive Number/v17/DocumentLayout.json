@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Positive Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBEF21-A303-42AB-B749-C95095657EA2}|Positive Number\\Positive Number.vcxproj|G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Positive Number\\Positive Number\\Positive Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBEF21-A303-42AB-B749-C95095657EA2}|Positive Number\\Positive Number.vcxproj|solutionrelative:Positive Number\\Positive Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Positive Number.cpp",
+              "DocumentMoniker": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Positive Number\\Positive Number\\Positive Number.cpp",
+              "RelativeDocumentMoniker": "Positive Number\\Positive Number.cpp",
+              "ToolTip": "G:\\\u0647\u0627\u062A\u0641 \u0627\u062D\u0645\u062F\\Courses\\Foundation of programming\\Course(5)\\Positive Number\\Positive Number\\Positive Number.cpp",
+              "RelativeToolTip": "Positive Number\\Positive Number.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T17:24:03.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
