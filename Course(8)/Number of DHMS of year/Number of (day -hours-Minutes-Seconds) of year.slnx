@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Number of (day -hours-Minutes-Seconds) of year/Number of (day -hours-Minutes-Seconds) of year.vcxproj" />
+</Solution>

@@ -1,0 +1,5 @@
+﻿  Format Date.cpp
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Format Date\Format Date\Format Date.cpp(17,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Format Date\Format Date\Format Date.cpp(37,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Format Date\Format Date\Format Date.cpp(42,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Format Date.vcxproj -> G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Format Date\x64\Debug\Format Date.exe

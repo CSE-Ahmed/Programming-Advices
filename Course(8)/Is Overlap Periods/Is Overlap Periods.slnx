@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Is Overlap Periods/Is Overlap Periods.vcxproj" />
+</Solution>

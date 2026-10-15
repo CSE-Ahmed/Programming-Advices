@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Is Date1 After Date2/Is Date1 After Date2.vcxproj" />
+</Solution>

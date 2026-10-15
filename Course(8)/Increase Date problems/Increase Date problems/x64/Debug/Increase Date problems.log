@@ -1,0 +1,4 @@
+﻿  Increase Date problems.cpp
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Increase Date problems\Increase Date problems\Increase Date problems.cpp(6,6): error C3861: 'IsLastDayInMonth': identifier not found
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Increase Date problems\Increase Date problems\Increase Date problems.cpp(8,7): error C3861: 'IsLastMonthInYear': identifier not found
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(8)\Increase Date problems\Increase Date problems\Increase Date problems.cpp(38,6): error C3861: 'IsLastMonthInYear': identifier not found

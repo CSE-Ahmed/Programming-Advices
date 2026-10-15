@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Month Calendar/Month Calendar/Month Calendar.vcxproj" />
+  <Project Path="Year calendar/Year calendar.vcxproj" />
+</Solution>

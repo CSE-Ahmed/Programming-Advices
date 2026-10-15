@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../DIFF in Day/DIFF in Day/DIFF in Day.vcxproj" />
+  <Project Path="Age in Days/Age in Days.vcxproj" />
+</Solution>

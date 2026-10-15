@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Add Days to Date/Add Days to Date/Add Days to Date.vcxproj" Id="7aa1fb68-680f-4bfb-880d-32c8cfee3d4e" />
+  <Project Path="Calculate Vacation return day/Calculate Vacation return day.vcxproj" Id="d636387f-66aa-452e-b8bc-23c0449cb5b5" />
+</Solution>
