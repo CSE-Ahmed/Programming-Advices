@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Print First letter of each word/Print First letter of each word.vcxproj" Id="7e05629b-dc3b-43c6-a7ec-58beec76a17b" />
+</Solution>

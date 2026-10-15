@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Upper first letter of each word/Upper first letter of each word.vcxproj" />
+</Solution>

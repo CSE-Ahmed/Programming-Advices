@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Trim Right,Left and All/Trim Right,Left and All.vcxproj" />
+</Solution>

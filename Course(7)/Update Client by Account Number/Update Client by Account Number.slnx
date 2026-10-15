@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Update Client by Account Number/Update Client by Account Number.vcxproj" Id="5a53e2eb-8ca6-4b68-9469-5f286525223a" />
+</Solution>

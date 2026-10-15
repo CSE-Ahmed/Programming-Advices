@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Check typical Matrix/Check typical Matrix.vcxproj" Id="acda2512-4598-4970-a9f9-ec7e628473d6" />
+</Solution>

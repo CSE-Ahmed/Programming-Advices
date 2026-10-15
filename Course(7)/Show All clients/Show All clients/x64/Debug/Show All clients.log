@@ -1,0 +1,3 @@
+﻿  Show All clients.cpp
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Show All clients\Show All clients\Show All clients.cpp(20,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Show All clients.vcxproj -> G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Show All clients\x64\Debug\Show All clients.exe

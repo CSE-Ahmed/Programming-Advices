@@ -1,0 +1,5 @@
+﻿  Replace words.cpp
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Replace words\Replace words\Replace words.cpp(17,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Replace words\Replace words\Replace words.cpp(18,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Replace words\Replace words\Replace words.cpp(24,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Replace words.vcxproj -> G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Replace words\x64\Debug\Replace words.exe

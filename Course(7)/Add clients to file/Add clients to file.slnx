@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Add clients to file/Add clients to file.vcxproj" Id="b4f91609-cd9a-46ae-ba7c-307a202cf12e" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Convert Line data to Record/Convert Line data to Record.vcxproj" />
+</Solution>

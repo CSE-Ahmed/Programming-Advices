@@ -1,0 +1,5 @@
+﻿  Remove Client by Account Number.cpp
+G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Remove Client by Account Number\Remove Client by Account Number\ClientsManager.h(33,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Remove%20Client%20by%20Account%20Number.cpp')
+  
+  Remove Client by Account Number.vcxproj -> G:\Random\Study\Courses\Technical skills\Foundation of programming\Course(7)\Remove Client by Account Number\x64\Debug\Remove Client by Account Number.exe

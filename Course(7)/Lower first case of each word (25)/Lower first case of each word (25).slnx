@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lower first case of each word (25)/Lower first case of each word (25).vcxproj" />
+</Solution>

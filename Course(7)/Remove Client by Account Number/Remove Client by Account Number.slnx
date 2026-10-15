@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Remove Client by Account Number/Remove Client by Account Number.vcxproj" Id="c79ed556-bfcd-4576-b234-1a248dd1b076" />
+</Solution>
